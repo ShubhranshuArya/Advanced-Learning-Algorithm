@@ -8,11 +8,11 @@ This repository serves as a professional reservoir, offering a comprehensive und
 
 ## Course Work
 
- - Week 1 - [Intro to Neural Networks](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/tree/main/Week%201)
-    - [Handwritten Notes](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/tree/main/Week%201/Notes)
+ - Week 1 - [Intro to Neural Networks](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%201)
+    - [Handwritten Notes](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Notes/Intro%20to%20Neural%20Networks.pdf)
     - [Assignment Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Assignment%20Lab/Neural_Network_for_Classification.ipynb)
     - [Practice Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%201/Labs)
-      - [Neurons & Layers](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/blob/main/Week%201/Labs/Lab02_Gradient_Descent.ipynb)
+      - [Neurons & Layers](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab01_Neurons_and_Layers.ipynb)
       - [Neural Network using TensorFlow](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab02_Coffee_Roasting_TF.ipynb)
       - [Neural Network using NumPy](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab03_Coffee_Roasting_Numpy.ipynb)
  - Week 2 - Learning in process...
