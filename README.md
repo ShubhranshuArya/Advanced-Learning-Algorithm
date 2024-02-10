@@ -24,4 +24,10 @@ This repository serves as a professional reservoir, offering a comprehensive und
       - [Multiclass](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab03_Multiclass_TF.ipynb)
       - [Derivatives](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab04_Derivatives.ipynb)
       - [Back Propagation](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab05_Backprop.ipynb)
- - Week 3 - Learning in process...
+ - Week 3 - [Advice for Machine Learning Project](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203)
+    - [Handwritten Notes](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Handwritten%20Notes/Machine%20Learning%20Advice.pdf)
+    - [Assignment Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203/Assignment%20Lab)
+    - [Practice Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203/Practice%20Lab)
+      - [Model Evaluation and Selection](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Practice%20Lab/Lab-01_Model_Evaluation_and_Selection.ipynb)
+      - [Diagnosing Bias and Variance](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Practice%20Lab/Lab-02_Diagnosing_Bias_and_Variance.ipynb)
+ - Week 4 - Learning in process...
