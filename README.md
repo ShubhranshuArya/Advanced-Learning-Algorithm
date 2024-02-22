@@ -15,6 +15,7 @@ This repository serves as a professional reservoir, offering a comprehensive und
       - [Neurons & Layers](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab01_Neurons_and_Layers.ipynb)
       - [Neural Network using TensorFlow](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab02_Coffee_Roasting_TF.ipynb)
       - [Neural Network using NumPy](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%201/Labs/Lab03_Coffee_Roasting_Numpy.ipynb)
+
  - Week 2 - [Neural Network Training](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%202)
     - [Handwritten Notes](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Handwritten%20Notes/Neural%20Networks%20Training.pdf)
     - [Assignment Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Assignment%20Lab/NN%20for%20Handwritten%20digit%20recognition.ipynb)
@@ -24,10 +25,19 @@ This repository serves as a professional reservoir, offering a comprehensive und
       - [Multiclass](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab03_Multiclass_TF.ipynb)
       - [Derivatives](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab04_Derivatives.ipynb)
       - [Back Propagation](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%202/Practice%20Labs/Lab05_Backprop.ipynb)
+ 
  - Week 3 - [Advice for Machine Learning Project](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203)
     - [Handwritten Notes](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Handwritten%20Notes/Machine%20Learning%20Advice.pdf)
     - [Assignment Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203/Assignment%20Lab)
     - [Practice Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%203/Practice%20Lab)
       - [Model Evaluation and Selection](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Practice%20Lab/Lab-01_Model_Evaluation_and_Selection.ipynb)
       - [Diagnosing Bias and Variance](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%203/Practice%20Lab/Lab-02_Diagnosing_Bias_and_Variance.ipynb)
- - Week 4 - Learning in process...
+
+ - Week 4 - [Decision Trees](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%204)
+    - [Handwritten Notes](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%204/Handwritten%20Notes/Decision%20Trees.pdf)
+    - [Assignment Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%204/Assignment%20Lab/Decision_Tree_in_Practice.ipynb)
+    - [Practice Lab](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/tree/main/Week%20-%204/Practice%20Lab)
+      - [Decision Trees Learning](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%204/Practice%20Lab/Lab-01_Decision_Trees.ipynb)
+      - [Tree Ensembles](https://github.com/ShubhranshuArya/Advanced-Learning-Algorithm/blob/main/Week%20-%204/Practice%20Lab/Lab-02_Tree_Ensemble.ipynb)
+
+### [Certificate of Completion](https://coursera.org/share/fef75058627de5f5c84a53e3f6a4afb0)
